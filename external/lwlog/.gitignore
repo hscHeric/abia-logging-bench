@@ -1,0 +1,23 @@
+# Directories
+**/bin
+**/bin-int
+/build/
+/install/
+
+# Visual Studio
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+# Visual Studio Code
+.vscode/
+
+# idea
+.idea/
+.cache/
+cmake-build-*/
+
+# macOS specific
+.DS_Store

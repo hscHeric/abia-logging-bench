@@ -1,0 +1,7 @@
+/.codex
+/build/
+/logs/
+/compile_commands.json
+/CMakeUserPresets.json
+/compressedLog
+/*.log
